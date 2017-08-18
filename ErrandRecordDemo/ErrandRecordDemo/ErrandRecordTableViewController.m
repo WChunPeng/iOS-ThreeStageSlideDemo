@@ -27,7 +27,6 @@
     iconView.backgroundColor = [UIColor whiteColor];
     iconView.userInteractionEnabled = YES;
     [self.view addSubview:iconView];
-    
     [self.view addSubview:self.tableView];
 }
 
